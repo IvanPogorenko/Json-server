@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ipogorenko@yandex.ru",
+      "password": "qwe123"
+    },
+    {
+      "id": 2,
+      "email": "qwe@mail.ru",
+      "password": "qwe123"
+    },
+    {
+      "id": 3,
+      "email": "qweqwe@mail.ru",
+      "password": "qwe123"
+    }
+  ],
+  "markers": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "longitude": 37.617633,
+      "latitude": 55.755786,
+      "description": "Красная площадь в Москве"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "longitude": 30.315868,
+      "latitude": 59.938955,
+      "description": "Дворцовая площадь в Санкт-Петербурге"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "longitude": 49.105278,
+      "latitude": 55.796127,
+      "description": "Центр Казани, Кремль"
+    },
+    {
+      "id": 5,
+      "user_id": 2,
+      "longitude": 60.597465,
+      "latitude": 56.838011,
+      "description": "Екатеринбург, плотинка"
+    },
+    {
+      "id": 6,
+      "user_id": 3,
+      "longitude": 39.956585,
+      "latitude": 43.585472,
+      "description": "Морской порт Сочи"
+    },
+    {
+      "id": 7,
+      "user_id": 1,
+      "longitude": 44.006516,
+      "latitude": 56.326797,
+      "description": "Нижний Новгород, Чкаловская лестница"
+    },
+    {
+      "id": 8,
+      "user_id": 2,
+      "longitude": 50.135639,
+      "latitude": 53.195533,
+      "description": "Самара, набережная Волги"
+    },
+    {
+      "id": 9,
+      "user_id": 3,
+      "longitude": 92.893247,
+      "latitude": 56.010569,
+      "description": "Красноярск, заповедник Столбы"
+    },
+    {
+      "id": 10,
+      "user_id": 1,
+      "longitude": 39.723267,
+      "latitude": 47.235713,
+      "description": "Ростов-на-Дону, набережная Дона"
+    },
+    {
+      "id": 11,
+      "user_id": 2,
+      "longitude": 76.955276,
+      "latitude": 43.256734,
+      "description": "Алматы, гора Кок-Тобе"
+    },
+    {
+      "id": 12,
+      "user_id": 3,
+      "longitude": 27.566845,
+      "latitude": 53.904541,
+      "description": "Минск, Верхний город"
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "longitude": 37.611347,
+      "latitude": 55.751244,
+      "description": "Храм"
+    },
+    {
+      "id": 14,
+      "user_id": 2,
+      "longitude": 37.618423,
+      "latitude": 55.751433,
+      "description": "Патриарший мост в Москве"
+    },
+    {
+      "id": 15,
+      "user_id": 3,
+      "longitude": 30.360909,
+      "latitude": 59.931058,
+      "description": "Петропавловская крепость в СПб"
+    },
+    {
+      "longitude": 12,
+      "latitude": 12,
+      "description": "Тестовое описание",
+      "color": "FF0000FF",
+      "user_id": 1,
+      "id": 16
+    }
+  ],
+  "user_color": [
+    {
+      "user_id": 1,
+      "color": "FF0000FF"
+    },
+    {
+      "user_id": 2,
+      "color": "0000FFFF"
+    },
+    {
+      "user_id": 3,
+      "color": "00FF00FF"
+    }
+  ]
+}
