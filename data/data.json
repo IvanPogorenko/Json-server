@@ -116,10 +116,9 @@
       "description": "Петропавловская крепость в СПб"
     },
     {
-      "longitude": 12,
-      "latitude": 12,
-      "description": "Тестовое описание",
-      "color": "FF0000FF",
+      "longitude": 40.22040561326229,
+      "latitude": 47.744094442551955,
+      "description": "test",
       "user_id": 1,
       "id": 16
     }
@@ -127,15 +126,15 @@
   "user_color": [
     {
       "user_id": 1,
-      "color": "FF0000FF"
+      "color": "#f00"
     },
     {
       "user_id": 2,
-      "color": "0000FFFF"
+      "color": "#00f"
     },
     {
       "user_id": 3,
-      "color": "00FF00FF"
+      "color": "#0f0"
     }
   ]
 }
